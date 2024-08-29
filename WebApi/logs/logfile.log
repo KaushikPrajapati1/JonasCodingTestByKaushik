@@ -1,0 +1,12 @@
+2024-08-29 16:31:15.5146|INFO|WebApi.WebApiApplication|Application started
+2024-08-29 16:31:47.5216|INFO|WebApi.Controllers.CompanyController|Company Controller Post Request Received
+2024-08-29 18:06:34.2558|INFO|WebApi.WebApiApplication|Application started
+2024-08-29 18:15:04.2799|INFO|WebApi.Controllers.CompanyController|Company Controller Post Request Received
+2024-08-29 18:15:28.4123|INFO|WebApi.Controllers.CompanyController|Company Controller Get Request Received
+2024-08-29 18:16:19.4898|INFO|WebApi.Controllers.EmployeeController|Employee Controller GetAllAsync Request Received
+2024-08-29 18:17:11.1057|INFO|WebApi.WebApiApplication|Application started
+2024-08-29 18:23:13.8681|INFO|WebApi.Controllers.EmployeeController|Employee Controller Post Request Received
+2024-08-29 18:23:31.4628|INFO|WebApi.Controllers.EmployeeController|Employee Controller GetAllAsync Request Received
+2024-08-29 18:35:55.0003|INFO|WebApi.WebApiApplication|Application started
+2024-08-29 18:36:15.2842|INFO|WebApi.Controllers.EmployeeController|Employee Controller Post Request Received
+2024-08-29 18:36:29.6819|INFO|WebApi.Controllers.EmployeeController|Employee Controller GetAllAsync Request Received
